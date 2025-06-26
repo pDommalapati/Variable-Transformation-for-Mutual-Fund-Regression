@@ -2,7 +2,7 @@
 
 I worked on a high-value regression model using mutual fund data to predict two key outcomes: 
 board member count (BoardMem) and average manager salary (AvgSalary). The goal was to find the 
-right mathematical tweaks—called transformations—that make the relationship between my chosen predictor 
+right mathematical tweaks—called transformations, that make the relationship between my chosen predictor 
 (e.g., total net assets) and each outcome as straight-line (linear) as possible
 
 **My role & approach**
