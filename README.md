@@ -36,4 +36,6 @@ I sharpened my data-visual storytelling, practiced systematic trial-and-error wi
 validating each step with simple statistics and charts.
 
 <img width="701" alt="PD_Variable Trans" src="https://github.com/user-attachments/assets/9cd9452e-b9dd-49ce-94e9-65561e9fd16f" />
-<img width="701" alt="PD_Variable Trans" src="https://github.com/user-attachments/assets/9cd9452e-b9dd-49ce-94e9-65561e9fd16f" />
+<img width="896" alt="plot1" src="https://github.com/user-attachments/assets/5260ebdd-8853-4212-8b2e-0fb9e721f50f" />
+<img width="896" alt="Plot2" src="https://github.com/user-attachments/assets/375c8c7d-ea17-41a0-8f50-47e0bdddf2ff" />
+<img width="899" alt="plot3" src="https://github.com/user-attachments/assets/b1e71f29-a1ee-44e8-a617-9a76ea0cb778" />
