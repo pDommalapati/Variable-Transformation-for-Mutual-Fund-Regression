@@ -2,7 +2,7 @@
 
 I worked on a high-value regression model using mutual fund data to predict two key outcomes: 
 board member count (BoardMem) and average manager salary (AvgSalary). The goal was to find the 
-right mathematical tweaks—called transformations, that make the relationship between my chosen predictor 
+right mathematical tweaks, called transformations, that make the relationship between my chosen predictor 
 (e.g., total net assets) and each outcome as straight-line (linear) as possible
 
 **My role & approach**
@@ -12,7 +12,7 @@ I dove into summary stats (min, max, mean, SD), charted its shape, and flagged a
 This helped me understand whether the data was skewed or had extreme values that could throw off a model.
 
 2) Hunting for the best transform
-For AvgSalary, I tested common fixes—log, square-root, and Box-Cox—guided by how the data looked on histograms and scatterplots.
+For AvgSalary, I tested common fixes,log, square-root, and Box-Cox,guided by how the data looked on histograms and scatterplots.
 I measured improvement by comparing the correlation coefficient before and after each tweak.
 
 3) Repeating for BoardMem
