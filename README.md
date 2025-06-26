@@ -35,3 +35,5 @@ By pinning down these transforms, I helped the team cut model errors in half and
 I sharpened my data-visual storytelling, practiced systematic trial-and-error with transforms, and reinforced the importance of 
 validating each step with simple statistics and charts.
 
+<img width="701" alt="PD_Variable Trans" src="https://github.com/user-attachments/assets/9cd9452e-b9dd-49ce-94e9-65561e9fd16f" />
+<img width="701" alt="PD_Variable Trans" src="https://github.com/user-attachments/assets/9cd9452e-b9dd-49ce-94e9-65561e9fd16f" />
